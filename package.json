@@ -1,0 +1,11 @@
+{
+  "name": "it-incubator",
+  "version": "1.0.0",
+  "description": "test tasks",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
